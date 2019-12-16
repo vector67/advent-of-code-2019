@@ -1,2 +1,2 @@
 all:
-	python3 Day\ 8/day8-1.py
+	python3 Day\ 16/day16-1.py
